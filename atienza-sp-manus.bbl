@@ -1,0 +1,181 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Antrim%
+\ \BBA {} Barbeau%
+}{%
+Antrim%
+\ \BBA {} Barbeau%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+Antrim01}
+\APACinsertmetastar {%
+Antrim01}%
+\begin{APACrefauthors}%
+Antrim, A.%
+\BCBT {}\ \BBA {} Barbeau, S\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The many uses of GTFS data---Opening the Door to Transit and Multimodal Applications} {The many uses of gtfs data---opening the door to transit and multimodal applications}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Location-Aware Information Systems Laboratory at the University of South Florida}{4}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+LAGUA%
+}{%
+LAGUA%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+Lagua19}
+\APACinsertmetastar {%
+Lagua19}%
+\begin{APACrefauthors}%
+LAGUA, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+\APACrefbtitle {A Study of Metro Manila's Public Transportation Sector: Implementing a Multimodal Public Transportation Route Planner.} {A study of metro manila's public transportation sector: Implementing a multimodal public transportation route planner.}
+\newblock
+\APACaddressPublisher{}{BusinessWorld Publishing}.
+\newblock
+\begin{APACrefURL} [{2023-10-09}]\url{https://www.bworldonline.com/editors-picks/2019/04/26/227410/ the-need-to-own-cars/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lund%
+}{%
+Lund%
+}{%
+{\protect \APACyear {2001}}%
+}]{%
+Lund01}
+\APACinsertmetastar {%
+Lund01}%
+\begin{APACrefauthors}%
+Lund, A\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Measuring usability with the use questionnaire12} {Measuring usability with the use questionnaire12}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Usability interface}{8}{2}{3--6}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mayo%
+\ \BBA {} Taboada%
+}{%
+Mayo%
+\ \BBA {} Taboada%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+Mayo20}
+\APACinsertmetastar {%
+Mayo20}%
+\begin{APACrefauthors}%
+Mayo, F.%
+\BCBT {}\ \BBA {} Taboada, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Ranking factors affecting public transport mode choice of commuters in an urban city of a developing country using analytic hierarchy process: The case of Metro Cebu, Philippines} {Ranking factors affecting public transport mode choice of commuters in an urban city of a developing country using analytic hierarchy process: The case of metro cebu, philippines}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Transportation Research Interdisciplinary Perspectives}{4}{}{100078}.
+\newblock
+\begin{APACrefURL} \url{https://www.sciencedirect.com/science/article/pii/S2590198219300776} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{https://doi.org/10.1016/j.trip.2019.100078} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+NARBONETA%
+\ \BBA {} TEKNOMO%
+}{%
+NARBONETA%
+\ \BBA {} TEKNOMO%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+Narboneta16}
+\APACinsertmetastar {%
+Narboneta16}%
+\begin{APACrefauthors}%
+NARBONETA, C.%
+\BCBT {}\ \BBA {} TEKNOMO, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A Study of Metro Manila's Public Transportation Sector: Implementing a Multimodal Public Transportation Route Planner} {A study of metro manila's public transportation sector: Implementing a multimodal public transportation route planner}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Asian Transport Studies}{4}{2}{460--477}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Narboneta%
+\ \BBA {} Teknomo%
+}{%
+Narboneta%
+\ \BBA {} Teknomo%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+Narboneta15}
+\APACinsertmetastar {%
+Narboneta15}%
+\begin{APACrefauthors}%
+Narboneta, C.%
+\BCBT {}\ \BBA {} Teknomo, K\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Implementation of Multimodal Public Transportation Route Planner for Metro Manila} {Implementation of multimodal public transportation route planner for metro manila}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal in Urban and Regional Planning}{2}{1}{9--17}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ramizo~Jr.%
+}{%
+Ramizo~Jr.%
+}{%
+{\protect \APACyear {2019/11}}%
+}]{%
+RamizoJr19}
+\APACinsertmetastar {%
+RamizoJr19}%
+\begin{APACrefauthors}%
+Ramizo~Jr., G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019/11}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Comparing conventional public transport to ride-hailing apps: A snapshot of user experiences from Metro Manila} {Comparing conventional public transport to ride-hailing apps: A snapshot of user experiences from metro manila}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 2nd International Conference on Strategic and Global Studies (ICSGS 2018)} {Proceedings of the 2nd international conference on strategic and global studies (icsgs 2018)}\ (\BPG~155-161).
+\newblock
+\APACaddressPublisher{}{Atlantis Press}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.2991/icsgs-18.2019.21} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.2991/icsgs-18.2019.21} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

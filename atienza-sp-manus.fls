@@ -1,0 +1,260 @@
+PWD /home/jonas/Documents/jratienza-undergrad-sp-manuscript-format/Texfiles
+INPUT /opt/texlive/2024/texmf.cnf
+INPUT /opt/texlive/2024/texmf-dist/web2c/texmf.cnf
+INPUT /opt/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT atienza-sp-manus.tex
+OUTPUT atienza-sp-manus.log
+INPUT ./icsthesis.cls
+INPUT icsthesis.cls
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/base/report.cls
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/base/report.cls
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/base/size12.clo
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/base/size12.clo
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/base/size12.clo
+INPUT /opt/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/psnfss/mathptmx.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/psnfss/mathptmx.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/tocloft/tocloft.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/tocloft/tocloft.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/apacite/apacite.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/apacite/apacite.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT ./atienza-sp-manus.aux
+INPUT ./atienza-sp-manus.aux
+INPUT atienza-sp-manus.aux
+OUTPUT atienza-sp-manus.aux
+INPUT /opt/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /opt/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /opt/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/apacite/english.apc
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/apacite/english.apc
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/apacite/english.apc
+OUTPUT atienza-sp-manus.pdf
+INPUT /opt/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmr7t.vf
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /opt/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /opt/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT ./atienza-sp-manus.toc
+INPUT ./atienza-sp-manus.toc
+INPUT atienza-sp-manus.toc
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/zptmcm7t.tfm
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/zptmcm7m.tfm
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/zptmcm7y.tfm
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/zptmcm7v.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
+OUTPUT atienza-sp-manus.toc
+INPUT ./atienza-sp-manus.lof
+INPUT ./atienza-sp-manus.lof
+INPUT atienza-sp-manus.lof
+OUTPUT atienza-sp-manus.lof
+INPUT /opt/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmri7t.vf
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmro7t.tfm
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+INPUT /opt/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmr8c.vf
+INPUT /opt/texlive/2024/texmf-dist/fonts/vf/adobe/times/zptmcm7y.vf
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
+INPUT ./figures/manager/dashboard.jpeg
+INPUT ./figures/manager/dashboard.jpeg
+INPUT ./figures/manager/dashboard.jpeg
+INPUT ./figures/manager/dashboard.jpeg
+INPUT ./figures/manager/dashboard.jpeg
+INPUT ./figures/manager/view trip.jpeg
+INPUT ./figures/manager/view trip.jpeg
+INPUT ./figures/manager/view trip.jpeg
+INPUT ./figures/manager/view trip.jpeg
+INPUT ./figures/manager/view trip.jpeg
+INPUT ./figures/manager/trip wizard 1.jpeg
+INPUT ./figures/manager/trip wizard 1.jpeg
+INPUT ./figures/manager/trip wizard 1.jpeg
+INPUT ./figures/manager/trip wizard 1.jpeg
+INPUT ./figures/manager/trip wizard 1.jpeg
+INPUT ./figures/manager/trip wizard 2.jpeg
+INPUT ./figures/manager/trip wizard 2.jpeg
+INPUT ./figures/manager/trip wizard 2.jpeg
+INPUT ./figures/manager/trip wizard 2.jpeg
+INPUT ./figures/manager/trip wizard 2.jpeg
+INPUT ./figures/manager/trip wizard 3.jpeg
+INPUT ./figures/manager/trip wizard 3.jpeg
+INPUT ./figures/manager/trip wizard 3.jpeg
+INPUT ./figures/manager/trip wizard 3.jpeg
+INPUT ./figures/manager/trip wizard 3.jpeg
+INPUT ./figures/manager/trip wizard 4.jpeg
+INPUT ./figures/manager/trip wizard 4.jpeg
+INPUT ./figures/manager/trip wizard 4.jpeg
+INPUT ./figures/manager/trip wizard 4.jpeg
+INPUT ./figures/manager/trip wizard 4.jpeg
+INPUT ./figures/manager/route request.jpeg
+INPUT ./figures/manager/route request.jpeg
+INPUT ./figures/manager/route request.jpeg
+INPUT ./figures/manager/route request.jpeg
+INPUT ./figures/manager/route request.jpeg
+INPUT ./figures/manager/alerts.jpeg
+INPUT ./figures/manager/alerts.jpeg
+INPUT ./figures/manager/alerts.jpeg
+INPUT ./figures/manager/alerts.jpeg
+INPUT ./figures/manager/alerts.jpeg
+INPUT ./figures/client/multiple route.png
+INPUT ./figures/client/multiple route.png
+INPUT ./figures/client/multiple route.png
+INPUT ./figures/client/multiple route.png
+INPUT ./figures/client/multiple route.png
+INPUT ./figures/client/add alert.png
+INPUT ./figures/client/add alert.png
+INPUT ./figures/client/add alert.png
+INPUT ./figures/client/add alert.png
+INPUT ./figures/client/add alert.png
+INPUT ./figures/client/welcome.png
+INPUT ./figures/client/welcome.png
+INPUT ./figures/client/welcome.png
+INPUT ./figures/client/welcome.png
+INPUT ./figures/client/welcome.png
+INPUT ./figures/client/home menu.png
+INPUT ./figures/client/home menu.png
+INPUT ./figures/client/home menu.png
+INPUT ./figures/client/home menu.png
+INPUT ./figures/client/home menu.png
+INPUT ./figures/manager means.png
+INPUT ./figures/manager means.png
+INPUT ./figures/manager means.png
+INPUT ./figures/manager means.png
+INPUT ./figures/manager means.png
+INPUT ./figures/manager means total.png
+INPUT ./figures/manager means total.png
+INPUT ./figures/manager means total.png
+INPUT ./figures/manager means total.png
+INPUT ./figures/manager means total.png
+INPUT ./figures/client means.png
+INPUT ./figures/client means.png
+INPUT ./figures/client means.png
+INPUT ./figures/client means.png
+INPUT ./figures/client means.png
+INPUT ./figures/client means total.png
+INPUT ./figures/client means total.png
+INPUT ./figures/client means total.png
+INPUT ./figures/client means total.png
+INPUT ./figures/client means total.png
+INPUT ./figures/ltfrb/puj.jpeg
+INPUT ./figures/ltfrb/puj.jpeg
+INPUT ./figures/ltfrb/puj.jpeg
+INPUT ./figures/ltfrb/puj.jpeg
+INPUT ./figures/ltfrb/puj.jpeg
+INPUT ./figures/ltfrb/mpuj.jpeg
+INPUT ./figures/ltfrb/mpuj.jpeg
+INPUT ./figures/ltfrb/mpuj.jpeg
+INPUT ./figures/ltfrb/mpuj.jpeg
+INPUT ./figures/ltfrb/mpuj.jpeg
+INPUT ./figures/ltfrb/pub.jpeg
+INPUT ./figures/ltfrb/pub.jpeg
+INPUT ./figures/ltfrb/pub.jpeg
+INPUT ./figures/ltfrb/pub.jpeg
+INPUT ./figures/ltfrb/pub.jpeg
+INPUT ./figures/ltfrb/pub ordinary.jpeg
+INPUT ./figures/ltfrb/pub ordinary.jpeg
+INPUT ./figures/ltfrb/pub ordinary.jpeg
+INPUT ./figures/ltfrb/pub ordinary.jpeg
+INPUT ./figures/ltfrb/pub ordinary.jpeg
+INPUT ./atienza-sp-manus.bbl
+INPUT ./atienza-sp-manus.bbl
+INPUT atienza-sp-manus.bbl
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmrc7t.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
+INPUT /opt/texlive/2024/texmf-dist/fonts/vf/adobe/times/ptmrc7t.vf
+INPUT /opt/texlive/2024/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT atienza-sp-manus.aux
+INPUT /opt/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /opt/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb
+INPUT /opt/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
+INPUT /opt/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
+INPUT /opt/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb

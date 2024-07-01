@@ -1,0 +1,782 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.2)  28 JUN 2024 11:45
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**atienza-sp-manus.tex
+(./atienza-sp-manus.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-03-14>
+(./icsthesis.cls
+Document Class: icsthesis 8/18/2015 ICS Thesis Class Author: James Carlo Plaras
+(/opt/texlive/2024/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
+(/opt/texlive/2024/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@chapter=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
+\c@figure=\count195
+\c@table=\count196
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (/opt/texlive/2024/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language89
+LaTeX Info: Redefining \_ on input line 43.
+) (/opt/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count197
+\mult@box=\box51
+\multicol@leftmargin=\dimen141
+\c@unbalance=\count198
+\c@collectmore=\count199
+\doublecol@number=\count266
+\multicoltolerance=\count267
+\multicolpretolerance=\count268
+\full@width=\dimen142
+\page@free=\dimen143
+\premulticols=\dimen144
+\postmulticols=\dimen145
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box52
+\last@line=\box53
+\mc@boxedresult=\box54
+\maxbalancingoverflow=\dimen146
+\mult@rightbox=\box55
+\mult@grightbox=\box56
+\mult@firstbox=\box57
+\mult@gfirstbox=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\c@minrows=\count269
+\c@columnbadness=\count270
+\c@finalcolumnbadness=\count271
+\last@try=\dimen147
+\multicolovershoot=\dimen148
+\multicolundershoot=\dimen149
+\mult@nat@firstbox=\box95
+\colbreak@box=\box96
+\mc@col@check@num=\count272
+) (/opt/texlive/2024/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+) (/opt/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/opt/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/opt/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/opt/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count273
+\Gm@cntv=\count274
+\c@Gm@tempcnt=\count275
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
+\Gm@dimlist=\toks18
+) (/opt/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/opt/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (/opt/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/opt/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/opt/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen158
+\Gin@req@width=\dimen159
+) (/opt/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (/opt/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen160
+\captionmargin=\dimen161
+\caption@leftmargin=\dimen162
+\caption@rightmargin=\dimen163
+\caption@width=\dimen164
+\caption@indent=\dimen165
+\caption@parindent=\dimen166
+\caption@hangindent=\dimen167
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count276
+\c@continuedfloat=\count277
+) (/opt/texlive/2024/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip52
+\cftbeforetoctitleskip=\skip53
+\cftaftertoctitleskip=\skip54
+\cftbeforepartskip=\skip55
+\cftpartnumwidth=\skip56
+\cftpartindent=\skip57
+\cftbeforechapskip=\skip58
+\cftchapindent=\skip59
+\cftchapnumwidth=\skip60
+\cftbeforesecskip=\skip61
+\cftsecindent=\skip62
+\cftsecnumwidth=\skip63
+\cftbeforesubsecskip=\skip64
+\cftsubsecindent=\skip65
+\cftsubsecnumwidth=\skip66
+\cftbeforesubsubsecskip=\skip67
+\cftsubsubsecindent=\skip68
+\cftsubsubsecnumwidth=\skip69
+\cftbeforeparaskip=\skip70
+\cftparaindent=\skip71
+\cftparanumwidth=\skip72
+\cftbeforesubparaskip=\skip73
+\cftsubparaindent=\skip74
+\cftsubparanumwidth=\skip75
+\cftbeforeloftitleskip=\skip76
+\cftafterloftitleskip=\skip77
+\cftbeforefigskip=\skip78
+\cftfigindent=\skip79
+\cftfignumwidth=\skip80
+\c@lofdepth=\count278
+\c@lotdepth=\count279
+\cftbeforelottitleskip=\skip81
+\cftafterlottitleskip=\skip82
+\cftbeforetabskip=\skip83
+\cfttabindent=\skip84
+\cfttabnumwidth=\skip85
+) (/opt/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box97
+\beforetitleunit=\skip86
+\aftertitleunit=\skip87
+\ttl@plus=\dimen168
+\ttl@minus=\dimen169
+\ttl@toksa=\toks19
+\titlewidth=\dimen170
+\titlewidthlast=\dimen171
+\titlewidthfirst=\dimen172
+) (/opt/texlive/2024/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (/opt/texlive/2024/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip88
+\f@nch@O@elh=\skip89
+\f@nch@O@erh=\skip90
+\f@nch@O@olh=\skip91
+\f@nch@O@orh=\skip92
+\f@nch@O@elf=\skip93
+\f@nch@O@erf=\skip94
+\f@nch@O@olf=\skip95
+\f@nch@O@orf=\skip96
+) (/opt/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count280
+) (/opt/texlive/2024/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count281
+\bibleftmargin=\skip97
+\bibindent=\skip98
+\bibparsep=\skip99
+\bibitemsep=\skip100
+\biblabelsep=\skip101
+) (/opt/texlive/2024/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip102
+\bibsep=\skip103
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count282
+)
+LaTeX Info: Redefining \BBA on input line 21.
+\@headingTextWidth=\skip104
+\c@pagecounter=\count283
+) (/opt/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.sty (/opt/texlive/2024/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/opt/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-03-14 L3 programming layer (loader) 
+ (/opt/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count284
+\l__pdf_internal_box=\box98
+))
+Package: l3keys2e 2024-03-14 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count285
+\l__lipsum_a_int=\count286
+\l__lipsum_b_int=\count287
+ (/opt/texlive/2024/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 19.
+ (/opt/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (./atienza-sp-manus.aux)
+\openout1 = `atienza-sp-manus.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+\big@size=\dimen173
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 433.62001pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=433.62001pt
+* \textheight=650.43001pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-17.16667pt
+* \headheight=12.0pt
+* \headsep=5.16667pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/opt/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count288
+\scratchdimen=\dimen174
+\scratchbox=\box99
+\nofMPsegments=\count289
+\nofMParguments=\count290
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count291
+\MPscratchDim=\dimen175
+\MPnumerator=\count292
+\makeMPintoPDFobject=\count293
+\everyMPtoPDFconversion=\toks21
+) (/opt/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/opt/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+\c@maskedRefs=\count294
+ (/opt/texlive/2024/texmf-dist/tex/latex/apacite/english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+Underfull \hbox (badness 1019) in paragraph at lines 23--23
+ []\OT1/ptm/m/n/12 PARA!: A MUL-TI-MODAL TRIP PLAN-NING 
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 23--23
+ \OT1/ptm/m/n/12 TRAVEL COM-PAN-ION AND PUB-LIC 
+ []
+
+[1
+
+{/opt/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}] [2]
+Overfull \hbox (8.49117pt too wide) in paragraph at lines 49--54
+\OT1/ptm/m/n/12 ge-o-graphic in-for-ma-tion sys-tems, com-puter net-works, and ar-ti-fi-cial in-tel-li-gence. Ad-di-tion-ally,
+ []
+
+[3]
+Overfull \hbox (2.64784pt too wide) in paragraph at lines 62--64
+|   \OT1/ptm/m/n/12 I would like to ex-press my grat-i-tude to my Spe-cial Prob-lem ad-viser, Prof. Con-cep-cion
+ []
+
+[4] (./atienza-sp-manus.toc
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 1.
+ (/opt/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 1.
+ (/opt/texlive/2024/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 1.
+ (/opt/texlive/2024/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 1.
+ (/opt/texlive/2024/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+ [5])
+\tf@toc=\write3
+\openout3 = `atienza-sp-manus.toc'.
+
+ [6] (./atienza-sp-manus.lof
+Overfull \hbox (3.2582pt too wide) in paragraph at lines 14--14
+ [][] []\OT1/ptm/m/n/12 Mean Scores for Use-ful-ness, Ease of Use, Ease of Learn-ing, and Sat-is-fac-tion 
+ []
+
+
+Overfull \hbox (3.2582pt too wide) in paragraph at lines 15--15
+ [][] []\OT1/ptm/m/n/12 Mean Scores for Use-ful-ness, Ease of Use, Ease of Learn-ing, and Sat-is-fac-tion 
+ []
+
+
+Overfull \hbox (3.2582pt too wide) in paragraph at lines 16--16
+ [][] []\OT1/ptm/m/n/12 Mean Scores for Use-ful-ness, Ease of Use, Ease of Learn-ing, and Sat-is-fac-tion 
+ []
+
+
+Overfull \hbox (3.2582pt too wide) in paragraph at lines 17--17
+ [][] []\OT1/ptm/m/n/12 Mean Scores for Use-ful-ness, Ease of Use, Ease of Learn-ing, and Sat-is-fac-tion 
+ []
+
+[6
+
+])
+\tf@lof=\write4
+\openout4 = `atienza-sp-manus.lof'.
+
+ [7]
+Overfull \hbox (8.8356pt too wide) in paragraph at lines 86--90
+\OT1/ptm/b/n/12 MUL-TI-MODAL TRIP PLAN-NING TRAVEL COM-PAN-ION AND PUB-LIC TRAN-SIT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--90
+
+ []
+
+[7
+
+]
+Overfull \hbox (5.37198pt too wide) in paragraph at lines 107--110
+[]\OT1/ptm/m/n/12 Transportation plays an im-por-tant part in the life of the mod-ern man. In the Philip-pines,
+ []
+
+
+Overfull \hbox (2.25148pt too wide) in paragraph at lines 107--110
+\OT1/ptm/m/n/12 (MVs). Mass pub-lic trans-porta-tion is also cheaper, rel-a-tively con-ve-nient, and can some-times
+ []
+
+
+Overfull \hbox (6.84769pt too wide) in paragraph at lines 113--115
+\OT1/ptm/m/n/12 operated---informal modes of trans-porta-tion such as \OT1/ptm/m/it/12 jeep-ney\OT1/ptm/m/n/12 , van, \OT1/ptm/m/it/12 `tri-cy-cle' \OT1/ptm/m/n/12 (auto rick-shaws),
+ []
+
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+
+ []
+
+[2]
+Overfull \hbox (16.66473pt too wide) in paragraph at lines 135--137
+\OT1/ptm/m/n/12 major---players such as Angkas and Joyride (Ramizo Jr., 2019/11). While they are un-doubt-edly
+ []
+
+
+Overfull \hbox (23.27518pt too wide) in paragraph at lines 138--140
+[]\OT1/ptm/m/n/12 Currently, there is a lack of travel ap-pli-ca-tions specif-i-cally tai-lored for pub-lic trans-porta-tion
+ []
+
+[3]
+Overfull \hbox (8.2153pt too wide) in paragraph at lines 152--155
+\OT1/ptm/m/n/12 for clients and one for ad-min-is-tra-tors. The client-facing ap-pli-ca-tion aims to pro-vide nec-es-sary
+ []
+
+
+Overfull \hbox (21.0782pt too wide) in paragraph at lines 152--155
+\OT1/ptm/m/n/12 It also aims to make a re-quest-ing mod-ule that can aid ad-min-is-tra-tors in the GTFS stan-dard-iza-tion
+ []
+
+[4] [5]
+Overfull \hbox (5.21533pt too wide) in paragraph at lines 177--179
+[]\OT1/ptm/m/n/12 A num-ber of works re-lated to this study has been im-ple-mented in var-i-ous trans-porta-tion
+ []
+
+
+Overfull \hbox (17.99539pt too wide) in paragraph at lines 177--179
+\OT1/ptm/m/n/12 net-works. Al-most ev-ery im-ple-men-ta-tion has been catered to the ben-e-fit of pri-vate trans-porta-tion
+ []
+
+
+Overfull \hbox (11.69579pt too wide) in paragraph at lines 177--179
+\OT1/ptm/m/n/12 same---which is to pro-vide com-muters and trav-el-ers [on pri-vate ve-hi-cles] valu-able in-for-ma-tion
+ []
+
+
+Overfull \hbox (10.69986pt too wide) in paragraph at lines 180--183
+\OT1/ptm/m/n/12 Mul-ti-modal Rout-ing Un-der a Set of Users' Pref-er-ences' which in-tro-duced a mo-bile nav-i-ga-tion
+ []
+
+[6
+
+]
+Overfull \hbox (9.57178pt too wide) in paragraph at lines 192--194
+\OT1/ptm/m/n/12 has en-abled the de-vel-op-ment of nu-mer-ous third-party tran-sit ap-pli-ca-tions Antrim and Bar-beau
+ []
+
+
+Overfull \hbox (6.31902pt too wide) in paragraph at lines 195--198
+\OT1/ptm/m/n/12 the most by GTFS-consuming ap-pli-ca-tions. The GTFS spec is con-tin-iously be-ing main-tained
+ []
+
+
+Overfull \hbox (3.39035pt too wide) in paragraph at lines 199--202
+\OT1/ptm/m/n/12 cre-ation tools, data vi-su-al-iza-tion, ac-ces-si-bil-ity tools for the dis-abled, tran-sit net-work anal-y-sis
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 204.
+(/opt/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [7] [8]
+Overfull \hbox (13.32738pt too wide) in paragraph at lines 219--220
+[]\OT1/ptm/m/n/12 A lap-top with the fol-low-ing spec-i-fi-ca-tions was used to host the de-vel-op-ment en-vi-ron-ment
+ []
+
+[9
+
+]
+Overfull \hbox (3.75238pt too wide) in paragraph at lines 258--259
+\OT1/ptm/m/n/12 was used to host the back-end server of the man-age-ment ap-pli-ca-tion and the Open-Trip-Plan-ner
+ []
+
+[10] [11]
+Overfull \hbox (16.59163pt too wide) in paragraph at lines 323--324
+[]\OT1/ptm/m/n/12 The ap-pli-ca-tion is com-posed of a client-facing ap-pli-ca-tion and a man-age-ment ap-pli-ca-tion. 
+ []
+
+<./figures/manager/dashboard.jpeg, id=70, 1926.19624pt x 1082.0425pt>
+File: ./figures/manager/dashboard.jpeg Graphic file (type jpg)
+<use ./figures/manager/dashboard.jpeg>
+Package pdftex.def Info: ./figures/manager/dashboard.jpeg  used on input line 338.
+(pdftex.def)             Requested size: 346.70036pt x 194.75925pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12]
+<./figures/manager/view trip.jpeg, id=74, 1926.19624pt x 1083.04625pt>
+File: ./figures/manager/view trip.jpeg Graphic file (type jpg)
+<use ./figures/manager/view trip.jpeg>
+Package pdftex.def Info: ./figures/manager/view trip.jpeg  used on input line 349.
+(pdftex.def)             Requested size: 346.70036pt x 194.93991pt.
+ [13 <./figures/manager/dashboard.jpeg> <./figures/manager/view trip.jpeg>]
+<./figures/manager/trip wizard 1.jpeg, id=78, 1926.19624pt x 1083.04625pt>
+File: ./figures/manager/trip wizard 1.jpeg Graphic file (type jpg)
+<use ./figures/manager/trip wizard 1.jpeg>
+Package pdftex.def Info: ./figures/manager/trip wizard 1.jpeg  used on input line 360.
+(pdftex.def)             Requested size: 346.70036pt x 194.93991pt.
+<./figures/manager/trip wizard 2.jpeg, id=79, 1926.19624pt x 1083.04625pt>
+File: ./figures/manager/trip wizard 2.jpeg Graphic file (type jpg)
+<use ./figures/manager/trip wizard 2.jpeg>
+Package pdftex.def Info: ./figures/manager/trip wizard 2.jpeg  used on input line 368.
+(pdftex.def)             Requested size: 346.70036pt x 194.93991pt.
+<./figures/manager/trip wizard 3.jpeg, id=80, 1926.19624pt x 1083.04625pt>
+File: ./figures/manager/trip wizard 3.jpeg Graphic file (type jpg)
+<use ./figures/manager/trip wizard 3.jpeg>
+Package pdftex.def Info: ./figures/manager/trip wizard 3.jpeg  used on input line 376.
+(pdftex.def)             Requested size: 346.70036pt x 194.93991pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14 <./figures/manager/trip wizard 1.jpeg> <./figures/manager/trip wizard 2.jpeg>]
+<./figures/manager/trip wizard 4.jpeg, id=84, 1926.19624pt x 1083.04625pt>
+File: ./figures/manager/trip wizard 4.jpeg Graphic file (type jpg)
+<use ./figures/manager/trip wizard 4.jpeg>
+Package pdftex.def Info: ./figures/manager/trip wizard 4.jpeg  used on input line 384.
+(pdftex.def)             Requested size: 346.70036pt x 194.93991pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 388--389
+
+ []
+
+[15 <./figures/manager/trip wizard 3.jpeg> <./figures/manager/trip wizard 4.jpeg>]
+<./figures/manager/route request.jpeg, id=88, 1925.1925pt x 1083.04625pt>
+File: ./figures/manager/route request.jpeg Graphic file (type jpg)
+<use ./figures/manager/route request.jpeg>
+Package pdftex.def Info: ./figures/manager/route request.jpeg  used on input line 398.
+(pdftex.def)             Requested size: 288.76642pt x 162.44992pt.
+
+Overfull \hbox (5.05936pt too wide) in paragraph at lines 402--405
+\OT1/ptm/m/n/12 8 be-low shows the screen where man-agers could add, view, edit, and delete com-mu-nity
+ []
+
+<./figures/manager/alerts.jpeg, id=89, 1926.19624pt x 1083.04625pt>
+File: ./figures/manager/alerts.jpeg Graphic file (type jpg)
+<use ./figures/manager/alerts.jpeg>
+Package pdftex.def Info: ./figures/manager/alerts.jpeg  used on input line 409.
+(pdftex.def)             Requested size: 288.91698pt x 162.44992pt.
+[16 <./figures/manager/route request.jpeg> <./figures/manager/alerts.jpeg>]
+Overfull \hbox (10.84334pt too wide) in paragraph at lines 421--427
+\OT1/ptm/m/n/12 ma-tri-ces; as of Oc-to-ber 8, 2023, pro-vided by LT-FRB RO-4A). Each route is color-coded
+ []
+
+<./figures/client/multiple route.png, id=94, 1084.05pt x 2409.0pt>
+File: ./figures/client/multiple route.png Graphic file (type png)
+<use ./figures/client/multiple route.png>
+Package pdftex.def Info: ./figures/client/multiple route.png  used on input line 430.
+(pdftex.def)             Requested size: 108.41135pt x 240.91411pt.
+[17 <./figures/client/multiple route.png>]
+<./figures/client/add alert.png, id=98, 1084.05pt x 2409.0pt>
+File: ./figures/client/add alert.png Graphic file (type png)
+<use ./figures/client/add alert.png>
+Package pdftex.def Info: ./figures/client/add alert.png  used on input line 440.
+(pdftex.def)             Requested size: 108.41135pt x 240.91411pt.
+ [18 <./figures/client/add alert.png>]
+<./figures/client/welcome.png, id=102, 1084.05pt x 2409.0pt>
+File: ./figures/client/welcome.png Graphic file (type png)
+<use ./figures/client/welcome.png>
+Package pdftex.def Info: ./figures/client/welcome.png  used on input line 448.
+(pdftex.def)             Requested size: 108.41135pt x 240.91411pt.
+<./figures/client/home menu.png, id=103, 1084.05pt x 2409.0pt>
+File: ./figures/client/home menu.png Graphic file (type png)
+<use ./figures/client/home menu.png>
+Package pdftex.def Info: ./figures/client/home menu.png  used on input line 454.
+(pdftex.def)             Requested size: 108.41135pt x 240.91411pt.
+ [19 <./figures/client/welcome.png> <./figures/client/home menu.png>]
+Overfull \hbox (22.86745pt too wide) in paragraph at lines 467--468
+[]\OT1/ptm/m/n/12 The us-abil-ity and user ex-pe-ri-ence as-pect were mea-sured us-ing the Use-ful-ness, Sat-is-fac-tion,
+ []
+
+[20]
+<./figures/manager means.png, id=110, 1378.1889pt x 709.6914pt>
+File: ./figures/manager means.png Graphic file (type png)
+<use ./figures/manager means.png>
+Package pdftex.def Info: ./figures/manager means.png  used on input line 486.
+(pdftex.def)             Requested size: 248.0633pt x 127.73894pt.
+ [21
+
+ <./figures/manager means.png>] [22]
+<./figures/manager means total.png, id=120, 1378.1889pt x 709.6914pt>
+File: ./figures/manager means total.png Graphic file (type png)
+<use ./figures/manager means total.png>
+Package pdftex.def Info: ./figures/manager means total.png  used on input line 504.
+(pdftex.def)             Requested size: 248.0633pt x 127.73894pt.
+ [23 <./figures/manager means total.png>]
+<./figures/client means.png, id=125, 1378.1889pt x 709.6914pt>
+File: ./figures/client means.png Graphic file (type png)
+<use ./figures/client means.png>
+Package pdftex.def Info: ./figures/client means.png  used on input line 526.
+(pdftex.def)             Requested size: 248.0633pt x 127.73894pt.
+ [24 <./figures/client means.png>]
+<./figures/client means total.png, id=130, 1378.1889pt x 709.6914pt>
+File: ./figures/client means total.png Graphic file (type png)
+<use ./figures/client means total.png>
+Package pdftex.def Info: ./figures/client means total.png  used on input line 545.
+(pdftex.def)             Requested size: 248.0633pt x 127.73894pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25] [26 <./figures/client means total.png>]
+Overfull \hbox (10.60352pt too wide) in paragraph at lines 560--561
+\OT1/ptm/m/n/12 var-i-ous met-rics, in-di-cates strong po-ten-tial for real-world ap-pli-ca-tion. How-ever, im-prove-ments
+ []
+
+[27
+
+]
+<./figures/ltfrb/puj.jpeg, id=141, 1255.69125pt x 1929.2075pt>
+File: ./figures/ltfrb/puj.jpeg Graphic file (type jpg)
+<use ./figures/ltfrb/puj.jpeg>
+Package pdftex.def Info: ./figures/ltfrb/puj.jpeg  used on input line 570.
+(pdftex.def)             Requested size: 313.92204pt x 482.3007pt.
+ [28
+
+ <./figures/ltfrb/puj.jpeg>]
+<./figures/ltfrb/mpuj.jpeg, id=146, 1308.89pt x 1982.40625pt>
+File: ./figures/ltfrb/mpuj.jpeg Graphic file (type jpg)
+<use ./figures/ltfrb/mpuj.jpeg>
+Package pdftex.def Info: ./figures/ltfrb/mpuj.jpeg  used on input line 577.
+(pdftex.def)             Requested size: 327.2217pt x 495.60036pt.
+ [29
+
+ <./figures/ltfrb/mpuj.jpeg>]
+<./figures/ltfrb/pub.jpeg, id=150, 1286.8075pt x 1974.37625pt>
+File: ./figures/ltfrb/pub.jpeg Graphic file (type jpg)
+<use ./figures/ltfrb/pub.jpeg>
+Package pdftex.def Info: ./figures/ltfrb/pub.jpeg  used on input line 586.
+(pdftex.def)             Requested size: 321.70108pt x 493.59285pt.
+ [30
+
+ <./figures/ltfrb/pub.jpeg>]
+<./figures/ltfrb/pub ordinary.jpeg, id=154, 1206.5075pt x 1818.795pt>
+File: ./figures/ltfrb/pub ordinary.jpeg Graphic file (type jpg)
+<use ./figures/ltfrb/pub ordinary.jpeg>
+Package pdftex.def Info: ./figures/ltfrb/pub ordinary.jpeg  used on input line 593.
+(pdftex.def)             Requested size: 301.62613pt x 454.69765pt.
+ [31
+
+ <./figures/ltfrb/pub ordinary.jpeg>] (./atienza-sp-manus.bbl
+Underfull \hbox (badness 6910) in paragraph at lines 39--51
+[]\OT1/ptm/m/sc/12 LAGUA, B.  \OT1/ptm/m/n/12 (2019).  \OT1/ptm/m/it/12 A study of metro manila's pub-lic trans-porta-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--51
+\OT1/ptm/m/it/12 sec-tor: Im-ple-ment-ing a mul-ti-modal pub-lic trans-porta-tion route
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--51
+\OT1/ptm/m/it/12 plan-ner.  \OT1/ptm/m/n/12 Busi-ness-World Pub-lish-ing.  Re-trieved 2023-10-09, from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--51
+\OT1/cmtt/m/n/12 https://www.bworldonline.com/editors-picks/2019/04/26/227410/
+ []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 87--102
+\OT1/ptm/m/n/12 mode choice of com-muters in an ur-ban city of a de-vel-op-ing coun-try
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 87--102
+\OT1/ptm/m/n/12 us-ing an-a-lytic hi-er-ar-chy pro-cess: The case of metro cebu, philip-pines.
+ []
+
+
+Overfull \hbox (9.47989pt too wide) in paragraph at lines 87--102
+\OT1/cmtt/m/n/12 https://www.sciencedirect.com/science/article/pii/S2590198219300776
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 116--127
+\OT1/ptm/m/n/12 trans-porta-tion sec-tor: Im-ple-ment-ing a mul-ti-modal pub-lic trans-porta-tion route
+ []
+
+) [32
+
+
+] (./atienza-sp-manus.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-03-14>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 6199 strings out of 474104
+ 106267 string characters out of 5720336
+ 1936493 words of memory out of 5000000
+ 28492 multiletter control sequences out of 15000+600000
+ 574839 words of font info for 69 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 79i,8n,93p,703b,523s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</opt/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></opt/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></opt/texlive/2024/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/texlive/2024/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/texlive/2024/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on atienza-sp-manus.pdf (41 pages, 5872419 bytes).
+PDF statistics:
+ 189 PDF objects out of 1000 (max. 8388607)
+ 110 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+
